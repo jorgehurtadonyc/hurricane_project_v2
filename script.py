@@ -23,15 +23,11 @@ deaths = [90,4000,16,3103,179,184,408,682,5,1023,43,319,688,259,37,11,2068,269,3
 
 
 
-#This is a test to ignore - I just want to see if my changes are being pushed to codeacademy - I really don't understand repo
-
-
 
 # write your construct hurricane dictionary function here:
 
 
 
-#Here is another change that can be deleted soon
 
 
 
