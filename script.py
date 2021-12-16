@@ -21,7 +21,7 @@ deaths = [90,4000,16,3103,179,184,408,682,5,1023,43,319,688,259,37,11,2068,269,3
 
 # write your update damages function here:
 
-
+#Adding random code to like 24 as practice 
 
 
 # write your construct hurricane dictionary function here:
